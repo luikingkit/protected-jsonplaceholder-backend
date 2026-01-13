@@ -1,0 +1,30 @@
+{
+  "name": "protected-jsonplaceholder-backend",
+  "version": "1.0.0",
+  "description": "A comprehensive backend demo showcasing the effective utilization of the Auth Simplified library (https://github.com/luikingkit/auth-simplified) for authentication in applications.",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luikingkit/protected-jsonplaceholder-backend.git"
+  },
+  "keywords": [
+    "auth",
+    "authentication",
+    "security",
+    "auth-simplified"
+  ],
+  "author": "Lui King Kit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luikingkit/protected-jsonplaceholder-backend/issues"
+  },
+  "homepage": "https://github.com/luikingkit/protected-jsonplaceholder-backend#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "globals": "^17.0.0"
+  }
+}

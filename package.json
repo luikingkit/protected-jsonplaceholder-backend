@@ -7,7 +7,8 @@
     "lint": "eslint",
     "prettier:check": "prettier --check src",
     "prettier:write": "prettier --write src",
-    "prepare": "husky"
+    "prepare": "husky",
+    "dev": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -33,5 +34,9 @@
     "husky": "^9.1.7",
     "lint-staged": "^16.2.4",
     "prettier": "3.6.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.22.1"
   }
 }

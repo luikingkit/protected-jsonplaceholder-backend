@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint",
     "prettier:check": "prettier --check src",
-    "prettier:write": "prettier --write src"
+    "prettier:write": "prettier --write src",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
@@ -29,6 +30,7 @@
     "eslint": "^9.39.2",
     "eslint-config-prettier": "^10.1.8",
     "globals": "^17.0.0",
+    "husky": "^9.1.7",
     "prettier": "3.6.2"
   }
 }

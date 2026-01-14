@@ -4,7 +4,9 @@
   "description": "A comprehensive backend demo showcasing the effective utilization of the Auth Simplified library (https://github.com/luikingkit/auth-simplified) for authentication in applications.",
   "main": "src/index.js",
   "scripts": {
-    "lint": "eslint"
+    "lint": "eslint",
+    "prettier:check": "prettier --check src",
+    "prettier:write": "prettier --write src"
   },
   "repository": {
     "type": "git",
@@ -25,6 +27,8 @@
   "devDependencies": {
     "@eslint/js": "^9.39.2",
     "eslint": "^9.39.2",
-    "globals": "^17.0.0"
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^17.0.0",
+    "prettier": "3.6.2"
   }
 }

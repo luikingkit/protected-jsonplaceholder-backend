@@ -1,6 +1,6 @@
-# Protected Jsonplaceholder Backend
+# Protected JSONPlaceholder Backend
 
-**Protected Jsonplaceholder Backend** is a demo project showcasing how to use the [`@luikingkit/auth-simplified`](https://github.com/luikingkit/auth-simplified) authentication library in a Node.js environment. This backend applies robust authentication and proxies resource requests to [JSONPlaceholder](https://jsonplaceholder.typicode.com), a popular free fake REST API platform. This demo allows you to experience protected API endpoints over JSONPlaceholder.
+**Protected JSONPlaceholder Backend** is a demo project showcasing how to use the [`@luikingkit/auth-simplified`](https://github.com/luikingkit/auth-simplified) authentication library in a Node.js environment. This backend applies robust authentication and proxies resource requests to [JSONPlaceholder](https://jsonplaceholder.typicode.com), a popular free fake REST API platform. This demo allows you to experience protected API endpoints over JSONPlaceholder.
 
 <br />
 
@@ -163,11 +163,19 @@ For exact response formats, see the [JSONPlaceholder documentation](https://json
 
 <br />
 
+## Related Frontend
+
+Check out the related frontend from:  
+[Protected JSONPlaceholder Frontend](https://github.com/luikingkit/protected-jsonplaceholder-frontend)
+
+<br />
+
 ## References
 
-- Auth Library Docs: [@luikingkit/auth-simplified](https://github.com/luikingkit/auth-simplified)
-- MongoDB Docs: [mongodb.com/docs](https://www.mongodb.com/docs/)
-- Fake API Reference: [JSONPlaceholder](https://jsonplaceholder.typicode.com/guide/)
+- [@luikingkit/auth-simplified](https://github.com/luikingkit/auth-simplified)
+- [Protected JSONPlaceholder Frontend](https://github.com/luikingkit/protected-jsonplaceholder-frontend)
+- [MongoDB](https://www.mongodb.com/docs/)
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/guide/)
 
 <br />
 
@@ -179,4 +187,4 @@ MIT © [Lui King Kit](https://github.com/luikingkit)
 
 ## Support
 
-- Issues & Bugs: [GitHub Issues](https://github.com/luikingkit/protected-jsonplaceholder-backend/issues)
+- [GitHub Issues](https://github.com/luikingkit/protected-jsonplaceholder-backend/issues)
